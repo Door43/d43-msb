@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msb:home|Door43 (msb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msb|d43-msb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msb/archive/master.zip|d43-msb.zip]]
+
+**Recent Changes**
+{{changes>ns = msb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msb|Ethnologue data]]
+
